@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507073506 source:e:\c++ game development\5_1dcombatsimulatorversion2\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+
